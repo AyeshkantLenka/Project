@@ -1,0 +1,15 @@
+a{
+color:red; 
+text-decoration:none;
+}
+h1
+{
+	font-family:helvetic;
+}
+div
+{   
+	width:500px;
+	background-color: green;
+	margin:auto;
+	text-align:center;
+}
