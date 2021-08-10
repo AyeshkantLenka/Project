@@ -1,0 +1,173 @@
+#title{
+  background-color: #ff4c68;
+  color:#fff;
+}
+h1{
+  font-family: 'Montserrat-Black', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight:900;
+}
+.container-fluid{
+  padding:3% 15% 7% 15%;
+}
+
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size:2.2rem;
+  font-weight: bold;
+}
+.navbar
+{
+  padding: 0 0 4.5rem;
+}
+.nav-item
+{
+  padding-left: 18px;
+  padding-right: 18px;
+}
+.nav-link{
+  font-size:1.2rem;
+  font-family:'Montserrat-Light',sans-serif;
+  font-weight: 100;
+}
+.download-button{
+  margin:5% 3% 5% 0;
+}
+.title-img{
+    width: 54%;
+    transform: rotate(25deg);
+    margin-left: 52px;
+    padding-bottom: 20px;
+    position:absolute;
+}
+.col-lg-6{
+  margin-bottom: 20px;
+}
+@media (max-width:990px){
+  #title{
+    text-align: center;
+  }
+  .title-img{
+    position:static;
+    transform: rotate(0);
+  }
+}
+
+/*Features- second part */
+
+#features{
+  font-family: 'Montserrat',sans-serif;
+  font-size: 1rem;
+  padding-top: 150px;
+  padding-bottom: 80px;
+  background-color: #fff;
+  position:relative;
+  z-index:1;
+}
+.container-fluid{
+  padding: 0 150px 0 150px;
+}
+.secondpart-h3{
+  font-weight:bold;
+  font-size:1.9rem;
+}
+.secondpart-modify{
+  text-align: center;
+  padding: 0 35px 0 35px;
+}
+.secondpart-para{
+  color:grey;
+  padding: 0 10px 50px 10px;
+}
+.icon-color{
+  color:#ef8172;
+  margin-bottom:1rem;
+}
+.icon-hover:hover{
+  color:#ff4c68;
+}
+
+/* Testimonials-Third pard */
+
+#testimonials{
+  background-color:#ef8172;
+  text-align: center;
+  color:#fff;
+}
+h2
+{
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.testimonials-image{
+  width:12%;
+  border-radius: 100%;
+  margin:20px;
+}
+.carousel-item{
+  padding:7% 15%;
+}
+
+/* Press_Fourth Section */
+
+#press{
+  background-color:#ef8172;
+  text-align: center;
+  padding-bottom:60px;
+}
+.press-logo{
+  width:15%;
+  margin:20px 20px 50px;
+}
+
+/* Pricing-Fifth Section */
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.pricing-column{
+  padding:3% 2%;
+}
+.para-edit5{
+  padding-bottom:40px;
+}
+
+/* Call To Action-Sixth Section */
+
+#cta{
+  background-color:#ff4c68;
+  text-align: center;
+  padding: 60px 20px 90px 20px;
+}
+.cta-edit{
+  font-weight: 900;
+  font-size: 2.4rem;
+  padding: 0 360px 37px 360px;
+  color: #fff;
+}
+.btn-editz{
+  margin: 0 20px 0 20px;
+}
+
+/* Footer-Seventh Section */
+
+#footer{
+  background-color: #fff;
+  text-align: center;
+  padding-top: 85px;
+  padding-bottom: 30px;
+}
+.last{
+  margin:1px 9px;
+}
+.paraedit{
+  color:grey;
+  font-size: 0.9rem;
+  padding-top: 15px;
+}
