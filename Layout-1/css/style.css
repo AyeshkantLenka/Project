@@ -1,0 +1,198 @@
+body{
+  margin:0;
+  font-family: 'Merriweather', serif;
+}
+.first-option{
+  background-color:#ECF7FF ;
+  color:#055EA6;
+  padding-bottom: 100px;
+}
+.second-image{
+    float: left;
+    margin-left: 100px;
+    margin-right: 50px;
+    width: 500px;
+    text-align: justify;
+    margin-top: 10px;
+
+}
+
+.third-image{
+    float: right;
+    margin-right: 100px;
+    margin-left: 50px;
+    width: 500px;
+    text-align: justify;
+    margin-top: 10px;
+
+}
+.skill-row{
+  margin-top:70px;
+}
+.skill-rows{
+  margin-top:170px;
+}
+.paraeditz{
+  text-align:justify;
+  margin-left: 100px;
+  font-size: 19px;
+}
+.firsth2{
+  margin-left:100px;
+  font-size: 35px;
+}
+.paraedit{
+  margin-right:57px;
+  font-size: 19px;
+}
+h2{
+  font-size: 35px;
+  color:#00345B ;
+  word-spacing: 10px;
+}
+.paraeditzz{
+  margin-right:60px;
+  font-size: 19px;
+}
+.skill-rowss{
+   margin-top:200px;
+}
+.fourth-image{
+      float: left;
+      margin-left: 100px;
+      margin-right: 50px;
+      width: 500px;
+      text-align: justify;
+      margin-top: 10px;
+  }
+
+.second-option{
+  position: relative;
+  text-align: center;
+  background-color:#F6E5E5 ;
+  color:#A10303;
+  word-spacing: 3px;
+
+}
+.fifth-image{
+    height: 50%;
+    width: 90%;
+    margin-top: 120px;
+    left: 0;
+    opacity:0.7;
+}
+.firsth24{
+    position: absolute;
+    top: 30%;
+    left: 24%;
+    transform: translate(-7%, -10%);
+    color:#00124E;
+    width: 1000px;
+    height: 1000px;
+    font-size:65px;
+}
+.paraeditq{
+  margin-top:40px;
+  font-size: 19px;
+  text-align: justify;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+.sixth-image{
+  height: 776px;
+  width: 1374px;
+  margin-top: 40px;
+}
+.firsth26{
+    position: absolute;
+    top: 1353px;
+    left: 147px;
+    color: #00124E;
+    font-size: 65px;
+}
+.paraeditm{
+  margin-top:40px;
+  font-size: 19px;
+  text-align: justify;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+.skill-colmn{
+    padding-bottom: 100px;
+}
+.getintouch{
+  margin: 100px 30px 20px 480px;
+  font-size: 330%;
+  font-family:monospace;
+  font-weight:bold;
+}
+.occasion{
+  margin-bottom:50px;
+}
+.BUTTON_FBC {
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -moz-linear-gradient(top,#11CDD4,#11999E);
+   background-image: -ms-linear-gradient(top,#11CDD4, #11999E);
+   background-image: -o-linear-gradient(top, #11CDD4,#11999E);
+   background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: 'Montserrat',sans-serif;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 15px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow:0 0 0 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom:150px;
+   margin-top: 25px;
+   margin-left: 625px;
+}
+
+.BUTTON_FBC:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.lastpara{
+  color:gray;
+  font-size:17px;
+  padding:20px 0 10px 0;
+  margin-left: 587px;
+}
+a{
+  color:#11999E;
+  font-weight: bold;
+  font-family: 'Montserrat',sans-serif;
+  margin:10px 20px;
+  font-size:20px;
+  text-decoration: none;
+}
+a:hover{
+  color:black  ;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding:50px 0 25px 0;
+  font-family:'Montserrat',sans-serif;
+}
+.footer-links{
+  margin-left: 600px;
+}
